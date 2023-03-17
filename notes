@@ -1,0 +1,12 @@
+//Synchronous function
+// compiler will execute line by line
+// example:-Waiting for an action to complete then after go for another action
+
+//Asynchronous function
+// compiler will execute line by line untill the command takes time to get executed 
+// example:- at the time of waiting for a command to execute another command will executed to save time
+// async function has promise that returns the status of all the tasks seted up.
+// async funtion has an await keyword that indicates that the compiler has to wait for the promise untill the awaited tasks are not completed
+
+
+// solcjs converts from a high-level solidity language into Ethereum Virtual Machine (EVM) bytecode so that it can be executed on the blockchain by EVM.
